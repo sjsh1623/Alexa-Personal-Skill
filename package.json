@@ -1,12 +1,23 @@
 {
   "name": "alexa",
   "version": "1.0.0",
-  "description": "",
+  "description": "Alexa Personal Skill App",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Andrew SuckHyun Lim",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjsh1623/Alexa-Personal-Skill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sjsh1623/Alexa-Personal-Skill/issues"
+  },
+  "homepage": "https://github.com/sjsh1623/Alexa-Personal-Skill#readme",
+  "dependencies": {
+    "ask-sdk": "^2.12.1"
+  }
 }
